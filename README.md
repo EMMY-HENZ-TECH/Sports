@@ -1,3 +1,5 @@
+<a href="https://ibb.co/R0Pg8Nt"><img src="https://i.ibb.co/d26fZtX/file-234y-XLTR5i37-YK5-DLu-Rq-IX2t.webp" alt="file-234y-XLTR5i37-YK5-DLu-Rq-IX2t" border="0"></a>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +15,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background: url('https://your-image-url-here.com/image.jpg') no-repeat center center fixed;
+            background: url('https://i.ibb.co/3B9S34C/file-Awrc-XFj-M9-TLn-OU2-X74v4-Ja-WC.webp') no-repeat center center fixed;
             background-size: cover;
         }
 
